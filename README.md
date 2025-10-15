@@ -11,4 +11,3 @@ Typergeist simulates human typing directly into real web inputs — character by
 Paste this in your browser console:
 ```js
 await import("https://raw.githubusercontent.com/<your-username>/typergeist/main/typer.js");
-humanType("hello world, from typergeist 👻");
